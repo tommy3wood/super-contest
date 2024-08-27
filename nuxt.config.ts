@@ -25,7 +25,9 @@ export default defineNuxtConfig({
         'ProgressBar',
         'InlineMessage',
         'ProgressSpinner',
-        'Sidebar'
+        'Sidebar',
+        'DataTable',
+        'Column'
       ]
     },
     directives: {
